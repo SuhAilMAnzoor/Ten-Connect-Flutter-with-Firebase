@@ -1,0 +1,2 @@
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/ten_connect_flutterfirebase_first_time/android/app/.cxx/Debug/67112k5x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/ten_connect_flutterfirebase_first_time/android/app/.cxx/Debug/67112k5x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
